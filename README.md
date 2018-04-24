@@ -1,3 +1,10 @@
+Forked to keep universal="true" links.
+
+https://github.com/zurb/foundation-emails/issues/776
+
+---
+
+
 # Inky
 
 [![Build Status](https://travis-ci.org/zurb/inky.svg?branch=master)](https://travis-ci.org/zurb/inky) [![npm version](https://badge.fury.io/js/inky.svg)](https://badge.fury.io/js/inky)
