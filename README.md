@@ -1,4 +1,4 @@
-Forked to keep universal="true" links.
+Forked to keep `universal` and `clicktracking` attributes.
 
 https://github.com/zurb/foundation-emails/issues/776
 
